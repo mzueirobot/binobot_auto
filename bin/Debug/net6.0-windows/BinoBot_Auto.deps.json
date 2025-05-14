@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BinoBot_Auto/1.0.0": {
+        "runtime": {
+          "BinoBot_Auto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinoBot_Auto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
