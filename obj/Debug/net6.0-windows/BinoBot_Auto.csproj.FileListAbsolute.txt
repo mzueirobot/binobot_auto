@@ -15,3 +15,20 @@ C:\Users\Miguel Castro\source\repos\BinoBot Auto\BinoBot_Auto\obj\Debug\net6.0-w
 C:\Users\Miguel Castro\source\repos\BinoBot Auto\BinoBot_Auto\obj\Debug\net6.0-windows\BinoBot_Auto.pdb
 C:\Users\Miguel Castro\source\repos\BinoBot Auto\BinoBot_Auto\obj\Debug\net6.0-windows\BinoBot_Auto.genruntimeconfig.cache
 C:\Users\Miguel Castro\source\repos\BinoBot Auto\BinoBot_Auto\obj\Debug\net6.0-windows\ref\BinoBot_Auto.dll
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\bin\Debug\net6.0-windows\BinoBot_Auto.exe
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\bin\Debug\net6.0-windows\BinoBot_Auto.deps.json
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\bin\Debug\net6.0-windows\BinoBot_Auto.runtimeconfig.json
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\bin\Debug\net6.0-windows\BinoBot_Auto.dll
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\bin\Debug\net6.0-windows\BinoBot_Auto.pdb
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.csproj.AssemblyReference.cache
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.Form1.resources
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.csproj.GenerateResource.cache
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.AssemblyInfoInputs.cache
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.AssemblyInfo.cs
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.dll
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\refint\BinoBot_Auto.dll
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.pdb
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\BinoBot_Auto.genruntimeconfig.cache
+C:\Users\Miguel Castro\source\repos\BinoBotAuto\binobot_auto\obj\Debug\net6.0-windows\ref\BinoBot_Auto.dll

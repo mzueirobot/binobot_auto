@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel Castro\\source\\repos\\BinoBot Auto\\BinoBot_Auto\\BinoBot_Auto.csproj",
+      "projectUniqueName": "C:\\Users\\Miguel Castro\\source\\repos\\BinoBotAuto\\binobot_auto\\BinoBot_Auto.csproj",
       "projectName": "BinoBot_Auto",
-      "projectPath": "C:\\Users\\Miguel Castro\\source\\repos\\BinoBot Auto\\BinoBot_Auto\\BinoBot_Auto.csproj",
+      "projectPath": "C:\\Users\\Miguel Castro\\source\\repos\\BinoBotAuto\\binobot_auto\\BinoBot_Auto.csproj",
       "packagesPath": "C:\\Users\\Miguel Castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel Castro\\source\\repos\\BinoBot Auto\\BinoBot_Auto\\obj\\",
+      "outputPath": "C:\\Users\\Miguel Castro\\source\\repos\\BinoBotAuto\\binobot_auto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miguel Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
